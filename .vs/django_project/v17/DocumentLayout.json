@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24\\Documents\\programming\\django_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A272-9F08-4793-83A7-1E6758D92768}|django_project.pyproj|C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C572A272-9F08-4793-83A7-1E6758D92768}|django_project.pyproj|solutionrelative:directchat\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A272-9F08-4793-83A7-1E6758D92768}|django_project.pyproj|C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\templates\\directchat\\chatroom.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C572A272-9F08-4793-83A7-1E6758D92768}|django_project.pyproj|solutionrelative:directchat\\templates\\directchat\\chatroom.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A272-9F08-4793-83A7-1E6758D92768}|django_project.pyproj|C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\static\\directchat\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C572A272-9F08-4793-83A7-1E6758D92768}|django_project.pyproj|solutionrelative:directchat\\static\\directchat\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A272-9F08-4793-83A7-1E6758D92768}|django_project.pyproj|C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\consumers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C572A272-9F08-4793-83A7-1E6758D92768}|django_project.pyproj|solutionrelative:directchat\\consumers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\models.py",
+              "RelativeDocumentMoniker": "directchat\\models.py",
+              "ToolTip": "C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\models.py",
+              "RelativeToolTip": "directchat\\models.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-22T12:51:03.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chatroom.html",
+              "DocumentMoniker": "C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\templates\\directchat\\chatroom.html",
+              "RelativeDocumentMoniker": "directchat\\templates\\directchat\\chatroom.html",
+              "ToolTip": "C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\templates\\directchat\\chatroom.html",
+              "RelativeToolTip": "directchat\\templates\\directchat\\chatroom.html",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-22T11:15:37.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\static\\directchat\\styles.css",
+              "RelativeDocumentMoniker": "directchat\\static\\directchat\\styles.css",
+              "ToolTip": "C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\static\\directchat\\styles.css",
+              "RelativeToolTip": "directchat\\static\\directchat\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-22T11:15:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "consumers.py",
+              "DocumentMoniker": "C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\consumers.py",
+              "RelativeDocumentMoniker": "directchat\\consumers.py",
+              "ToolTip": "C:\\Users\\24\\Documents\\programming\\django_project\\directchat\\consumers.py",
+              "RelativeToolTip": "directchat\\consumers.py",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHeSURBVDhPpVMxa1NRFP7ebZLSlgaltNpSVCySRUxL0NAh4FJpHWpxcZAUBEPG/AKHDsVBN5eGrCnoYKCDoDiUCKKBjtZBUZtJ2ojYJr40ue\u002B\u002B47k3VzD0hQr94OOed8853/k47z2cCETk2NAgk8mQDQMhhFjK5/Mb9vEotIDruoEsFovEzVvZbPaWLTcQ9uxCpVLp4l\u002Bk0\u002BlEPB5/wIPm7RVC9uxCMpm0UTdKpRKi0WiCQy3wUt8FCvw7VSNxbRapG4voDwucGgyjXC7bzH84ePt1HysbH/GhWoNstzA1OoSFhZuxQqFg8sfu4FutAd\u002BT8KSEYm7v7GJ0YnLClgYLaAcjU9N4Vx9Dda8OBz7OjwywSNsIXY39vEL7TxWpxv2eO3hWHUZ19xc8ti25UdvXzdpNWH0BDj8JiLOrPXfweOu9mRgRhOXUEPr7IiBfYeacB9HaBNRvQH4f6\u002BlgMERwGxJP7grEoq9shj9Uz\u002BVGpmIi4vXcwdzlcePgzLAuZPiSGw869Jg\u002Biw1Mvw50oLGcuoh71y8h1HwB1Js8UfFLnwScNnBhdYVLWsy1IwK5XM5GHaw9uu0LeSCMddZA32lz7zjOQxMcByK1SPU3O/Rjnai2fkjNz8/5L77TyQJ/AJc67LNf3QeWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-01-22T11:10:56.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
